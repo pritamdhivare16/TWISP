@@ -40,7 +40,7 @@ public class guessingGame {
 		}
 		
 		if (attempts == maxAttempts) {
-			System.out.println("You exceeded the limit!!!. the correct number was"+correctNum);
+			System.out.println("You exceeded the limit!!!. the correct number was "+correctNum);
 		}
 		
 		sc.close();
